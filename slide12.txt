@@ -1,0 +1,12 @@
+Multilaser RE057
+================
+
+- Roteador muito barato: R$ 50 no ML
+- Baseado no RealTek RTL8196E
+- Expõe shell root pela porta serial sem senha
+- Vulnerabilidade simples:
+  - Ping: 8.8.8.8; id
+  - Saída do comando pela porta serial, pode ser explorado
+    usando com wget para exfiltração.
+  - Outro bypass:
+    "127.0.0.1; echo `cat etc/passwd` "

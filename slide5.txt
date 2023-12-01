@@ -1,0 +1,10 @@
+Mais Contexto
+=============
+
+- Poucos vendors
+  - SoC: Broadcom e RealTek são os mais comuns.
+  - Boards: Tenda e outros players chineses.
+  - Nacionais: Intelbras, Multilaser, Keo.
+  - Internacionais: D-Link, TP-Link.
+- Maior parte dos produtos nacionais são designs licenciados
+- Mercado cheio de roteadores antigos

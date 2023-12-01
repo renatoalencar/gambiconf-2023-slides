@@ -1,0 +1,6 @@
+Intelbras WRN 150
+=================
+
+- Exploit encontrado pelo Elber Tavares do Fireshell
+- Aplicável em outros produtos e vendors
+- Exploit muito simples: 'Cookie: admin:language=pt'

@@ -1,0 +1,8 @@
+D-Link DIR 610
+==============
+
+- Comum há alguns anos
+- O provedor não me deu a senha do admin
+- Ainda há quem recomende
+- Vulnerabilidade:
+  https://ssd-disclosure.com/ssd-advisory-trendnet-authorized_group-information-disclosure/

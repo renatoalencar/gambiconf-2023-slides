@@ -1,0 +1,6 @@
+Contexto
+========
+
+- Roteadores WiFi são computadores com algumas poucas tarefas
+- Possuem uma interface web, as vezes Telnet e SSH
+- Para roteadores domésticos mais baratos, são baseados em MIPS
